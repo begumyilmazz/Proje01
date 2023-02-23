@@ -1,3 +1,4 @@
 v1 kodlari
 v2 calismalari
 v2 kodlarim
+v3 kisa yol...commit -am "v3"
